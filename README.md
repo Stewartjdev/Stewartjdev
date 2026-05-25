@@ -54,7 +54,5 @@ Leading the greek society at Centenary University responsible for the continued 
   <tr>
     <td width="25%"><strong>Focus Areas</strong></td>
     <td width="75%">
-    Data Systems, Web Development
-    </td>
-  </tr>
+    Data Systems, Web Development, AI, API
 </table>
