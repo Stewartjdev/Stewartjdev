@@ -19,7 +19,7 @@ Co-leading the development of a student community focused on applied technical l
 <td width="25%"><strong>Omega Rho Fraternity</strong></td>
 <td width="75%">
 <em>Co-President & Step Master</em> -
-Contuning the nearly century long legacy of a brotherhood dedicated to helping and bringing todether the community. Establishing and maintaining relations between Centenary Alumn while fostering the growth of students, and most importantly our brothers.
+Contuning the nearly century long legacy of a brotherhood dedicated to helping and bringing todether the community. Maintaining our role in Centenary Alumn relations, keeping the campus booming with our events, and most importantly seeing to the growth and success of our brothers.
 </td>
 </tr>
 </table>
@@ -28,7 +28,7 @@ Contuning the nearly century long legacy of a brotherhood dedicated to helping a
 <td width="25%"><strong>Inter Greek Council</strong></td>
 <td width="75%">
 <em>President</em> -
-Leading the greek society at Centenary University responsible for the continued tradition, culture, and abundance of campus activities. Collaborating with all University greek organizations to create success that will impact the University.
+Leading the Greek society that helps carry tradition, culture, and campus life forward. By Working with Centenary’s Greek organizations, we bring stronger events, mentorship, leadership, and influence greatly impacting our students life, acadmeics, and well being
 </td>
 </tr>
 </table>
