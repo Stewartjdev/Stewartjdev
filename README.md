@@ -49,30 +49,39 @@ Leading the Greek society that's responsible for carrying tradition, culture, an
 ## Skills
 
 <table>
-  <tr>
-    <td width="33%" valign="top"><strong>Data</strong>
-      - SQL  
-      - Aggregations  
-      - Query design  
-      - Data transformation 
-    </td>
-    <td width="33%" valign="top">
-      
-      <strong>Programming</strong>
-      
-      - Python  
-      - Java  
-      - C++
-      - C#
-      
-    </td>
+<tr>
+<td width="33%" valign="top">
+  
+<strong>Data</strong>
+
+- SQL  
+- Aggregations  
+- Query design  
+- Data transformation
+- 
+</td>
     
-    <td width="33%" valign="top"><strong>Web</strong>
-      - HTML  
-      - CSS  
-      - Bootstrap  
-    </td>
-  </tr>
+<td width="33%" valign="top">
+      
+<strong>Programming</strong>
+      
+- Python  
+- Java  
+- C++
+- C#
+      
+</td>
+    
+<td width="33%" valign="top">
+  
+<strong>Web</strong>
+
+- HTML  
+- CSS  
+- Bootstrap  
+  
+</td>
+</tr>
 </table>
 
 ---
