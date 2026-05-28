@@ -5,7 +5,7 @@
 
 ## Leadership
 
-## Centenary University
+### Centenary University
 <table>
 <tr>
 <td width="25%"><strong>Tech & Innovation Society</strong></td>
@@ -51,11 +51,22 @@ Leading the Greek society that's responsible for carrying tradition, culture, an
 <table>
   <tr>
     <td width="33%" valign="top"><strong>Data</strong>
-      - SQL  - Aggregations  - Query design  - Data transformation  </td>
+      - SQL  
+      - Aggregations  
+      - Query design  
+      - Data transformation 
+    </td>
     <td width="33%" valign="top"><strong>Programming</strong>
-      - Python  - Java  </td>
+      - Python  
+      - Java  
+      - C++
+      - C#
+    </td>
     <td width="33%" valign="top"><strong>Web</strong>
-      - HTML  - CSS  - Bootstrap  </td>
+      - HTML  
+      - CSS  
+      - Bootstrap  
+    </td>
   </tr>
 </table>
 
@@ -71,7 +82,7 @@ Leading the Greek society that's responsible for carrying tradition, culture, an
   <td><strong>Instagram</strong></td>  
   <td><a href="https://www.instagram.com/coby.stew/">coby.stew</a></td></tr><tr>
   <td><strong>Facebook</strong></td>  
-  <td><a href="https://www.facebook.com/jacoby.stewart.520893">Jacoby Stewart</a></td>
+  <td><a href="https://www.facebook.com/jacoby.stewart.520893">J.Lebron Stewart</a></td>
   </tr>
 </table>
 
