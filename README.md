@@ -56,12 +56,17 @@ Leading the Greek society that's responsible for carrying tradition, culture, an
       - Query design  
       - Data transformation 
     </td>
-    <td width="33%" valign="top"><strong>Programming</strong>
+    <td width="33%" valign="top">
+      
+      <strong>Programming</strong>
+      
       - Python  
       - Java  
       - C++
       - C#
+      
     </td>
+    
     <td width="33%" valign="top"><strong>Web</strong>
       - HTML  
       - CSS  
@@ -94,6 +99,6 @@ Leading the Greek society that's responsible for carrying tradition, culture, an
   <tr>
     <td width="25%"><strong>Email</strong>
 </td>
-  <td width="75%">j.lebron.stewart</td>
+  <td width="75%">j.lebron.stewart@gmail.com</td>
   </tr>
 </table>
