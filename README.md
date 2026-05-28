@@ -50,7 +50,7 @@ Leading the Greek society that's responsible for carrying tradition, culture, an
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="40%" valign="top">
   
 <strong>Data</strong>
 
@@ -58,7 +58,7 @@ Leading the Greek society that's responsible for carrying tradition, culture, an
 - Aggregations  
 - Query design  
 - Data transformation
-- 
+
 </td>
     
 <td width="33%" valign="top">
