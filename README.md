@@ -35,24 +35,54 @@ Leading the Greek society that's responsible for carrying tradition, culture, an
 
 ---
 
+## Education
+
+<table>
+<tr>
+<td width="10%" valign="middle"> <img src="images/CentLogo.svg" width="40"/> </td>
+<td width="25%"><strong>Centenary University</strong></td>
+<td width="75%">B.S. Computer Science (Senior)</td>
+</tr>
+</table>  
+
+---
 ## Skills
 
 <table>
   <tr>
-    <td width="25%"><strong>Programming</strong></td>
-    <td width="75%">
-      Python, Html, CSS, Javascript, R
-    </td>
+    <td width="33%" valign="top"><strong>Data</strong>
+      - SQL  - Aggregations  - Query design  - Data transformation  </td>
+    <td width="33%" valign="top"><strong>Programming</strong>
+      - Python  - Java  </td>
+    <td width="33%" valign="top"><strong>Web</strong>
+      - HTML  - CSS  - Bootstrap  </td>
   </tr>
-  <tr>
-    <td width="25%"><strong>Tools</strong></td>
-    <td width="75%">
-    Git, GitHub
-    </td>
-  </tr>
+</table>
 
+---
+
+## Links
+
+<table>
   <tr>
-    <td width="25%"><strong>Focus Areas</strong></td>
-    <td width="75%">
-    Data Systems, Web Development, AI, API
+  <td width="150"><strong>LinkedIn</strong></td>
+  <td><a href="https://www.linkedin.com/in/jacoby-l-stewart/">Jacoby Stewart</a></td></tr>
+  <tr>  
+  <td><strong>Instagram</strong></td>  
+  <td><a href="https://www.instagram.com/coby.stew/">coby.stew</a></td></tr><tr>
+  <td><strong>Facebook</strong></td>  
+  <td><a href="https://www.facebook.com/jacoby.stewart.520893">Jacoby Stewart</a></td>
+  </tr>
+</table>
+
+---
+
+## Contact
+
+<table>
+  <tr>
+    <td width="25%"><strong>Email</strong>
+</td>
+  <td width="75%">j.lebron.stewart</td>
+  </tr>
 </table>
