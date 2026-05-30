@@ -28,7 +28,7 @@ Contuning the nearly century long legacy of a brotherhood dedicated to helping a
 <td width="25%"><strong>Inter Greek Council</strong></td>
 <td width="75%">
 <em>President</em> -
-Leading the Greek society that's responsible for carrying tradition, culture, and campus life forward. By Working with Centenary’s Greek organizations, we bring stronger events, mentorship, leadership, and influence that greatly impacts our students life, acadmeics, and well being.
+Leading a Greek society responsible to preserve & represent tradition, culture, and  push campus life forward. By Working with Centenary’s Greek organizations, we bring impactful events, mentorship, leadership, and influence that greatly impacts our students life, acadmeics, and well being.
 </td>
 </tr>
 </table>
