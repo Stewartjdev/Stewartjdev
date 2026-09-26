@@ -66,7 +66,7 @@ Leading a Greek society responsible to preserve & represent tradition, culture, 
 <strong>Programming</strong>
       
 - Python  
-- Java  
+- JavaScript
 - C++
 - C#
       
