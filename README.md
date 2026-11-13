@@ -67,8 +67,7 @@ Leading a Greek society responsible to preserve & represent tradition, culture, 
       
 - Python  
 - JavaScript
-- C++
-- C#
+- R
       
 </td>
     
@@ -92,12 +91,6 @@ Leading a Greek society responsible to preserve & represent tradition, culture, 
   <tr>
   <td width="150"><strong>LinkedIn</strong></td>
   <td><a href="https://www.linkedin.com/in/jacoby-l-stewart/">Jacoby Stewart</a></td></tr>
-  <tr>  
-  <td><strong>Instagram</strong></td>  
-  <td><a href="https://www.instagram.com/coby.stew/">coby.stew</a></td></tr><tr>
-  <td><strong>Facebook</strong></td>  
-  <td><a href="https://www.facebook.com/jacoby.stewart.520893">J.Lebron Stewart</a></td>
-  </tr>
 </table>
 
 ---
