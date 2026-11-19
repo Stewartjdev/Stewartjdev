@@ -77,9 +77,27 @@ Leading a Greek society responsible to preserve & represent tradition, culture, 
 
 - HTML  
 - CSS  
-- Bootstrap  
+- Bootstrap
+
+</td>
+
+<td width="33%" valign="top">
+  
+<strong>LLM</strong>
+
+- Chatgpt  
+- Claude    
   
 </td>
+
+<td width="33%" valign="top">
+  
+<strong>Agentic AI</strong>
+
+- Hermes  
+- Ollama  
+- AQMidas
+  
 </tr>
 </table>
 
