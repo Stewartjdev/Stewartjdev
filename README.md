@@ -1,5 +1,5 @@
 # Jacoby Stewart
-**Computer Science | Html | Data Systems**
+**AI Evaluator | Systems Writing | Cybersecurity**
 
 ---
 
